@@ -155,8 +155,8 @@ skup podataka, Elektrotehnički fakultet, Univerzitet u Sarajevu, 2026.
 Rad u kojem su podaci nastali:
 
 ```
-A. Kanlić, "Podacima vođena predikcija vremena dolaska autobusa i tramvaja u javnom
-prevozu", završni rad prvog ciklusa, Elektrotehnički fakultet, Univerzitet u Sarajevu,
+A. Kanlić, "Predikcija vremena dolaska javnog prevoza na osnovu analize podataka",
+završni rad prvog ciklusa, Elektrotehnički fakultet, Univerzitet u Sarajevu,
 Sarajevo, 2026.
 ```
 
